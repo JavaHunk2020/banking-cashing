@@ -18,6 +18,8 @@ import com.images.service.DogService;
 @RestController
 public class DogController {
 	
+	// It is a cotroller file
+	
 	@Autowired
 	private DogService dogService;
 	
